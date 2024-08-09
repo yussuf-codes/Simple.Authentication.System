@@ -1,0 +1,12 @@
+[
+  {
+    "Username": "joe",
+    "PasswordHash": "40061b78c275783a6fa64632fd319c11c169e23df301b38a3910c618ed46dbb6",
+    "Salt": "hzv"
+  },
+  {
+    "Username": "ashley",
+    "PasswordHash": "30497bd6e8b0ad6aef4dc32c43a2985afe063cffb0db918e27f9c6bde303ab02",
+    "Salt": "qud"
+  }
+]

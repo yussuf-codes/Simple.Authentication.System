@@ -21,7 +21,7 @@ internal static class Cryptographer
     {
         StringBuilder builder = new StringBuilder();
         for (int i = 0; i < 3; i++)
-            builder.Append((char) new Random().Next(97, 123));
+            builder.Append((char)new Random().Next(97, 123));
         return builder.ToString();
     }
 }
